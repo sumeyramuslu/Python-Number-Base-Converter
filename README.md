@@ -5,10 +5,8 @@
 
 ##  Öğrenci Bilgileri
 - **Ad Soyad:** Sümeyra Muslu  
-- **Öğrenci Numarası:** 2025360859055  
 - **Bölüm:** Bilgisayar Mühendisliği  
-- **Ders:** BLM101 – Bilgisayar Mühendisliğine Giriş  
-- **Dersi Veren:** Prof. Dr. Turgay Tugay Bilgin  
+- **Ders:** BLM101 – Bilgisayar Mühendisliğine Giriş 
 
 ---
 
